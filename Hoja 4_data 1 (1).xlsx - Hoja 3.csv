@@ -1,0 +1,18 @@
+,,,
+,,,
+Interacciones,caminos,Distance,gastos
+AB,"['BC', 'BD']",10,20
+AC,"['CD', 'CE']",156,51
+BC,"['CD', 'CE']",15,20
+BD,"['DE', 'DF']",169,73
+CD,"['DE', 'DF']",30,17
+CE,"['EF', 'EG']",30,151
+DE,"['EF', 'EG']",64,19
+DF,"['FG', 'FH']",30,50
+EF,"['FG', 'FH']",96,50
+EG,['GI'],23,19
+FG,['GI'],50,30
+FH,"['HG', 'HI']",19,50
+GI,[],50,40
+HG,['GI'],23,22
+HI,[],19,50
